@@ -16,7 +16,7 @@ I wrote this to show what I have learned about Erlang. I used it to create a sim
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Wikipedia](https://en.m.wikipedia.org/wiki/Functional_programming)
 * [Erlang](https://www.erlang.org/downloads)
 
