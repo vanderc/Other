@@ -1,5 +1,6 @@
 # Overview
 
+I did this to demonstrate my knowledge of Erlang
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
 {Provide a description for the software that you wrote to demonstrate the Erlang language.}
