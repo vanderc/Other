@@ -10,19 +10,20 @@ I wrote this to show what I have learned about Erlang. I used it to create a sim
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+- Visual Studio Code
+- Erlang
+- erl
 
-{Describe the programming language that you used and any libraries.}
+
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Wikipedia](https://en.m.wikipedia.org/wiki/Functional_programming)
+* [Erlang](https://www.erlang.org/downloads)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I could make it more complex 
+* I could make it run more smoothly
+* I could try to make it be in on file
