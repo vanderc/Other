@@ -4,9 +4,7 @@ I wrote this to show what I have learned about Erlang. I used it to create a sim
 
 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Video](https://youtu.be/t6FD_L7HqTM?feature=shared)
 
 # Development Environment
 
