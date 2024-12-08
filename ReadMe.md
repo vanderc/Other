@@ -1,11 +1,8 @@
 # Overview
 
-I did this to demonstrate my knowledge of Erlang
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wrote this to show what I have learned about Erlang. I used it to create a simple sudoku solver.
 
-{Provide a description for the software that you wrote to demonstrate the Erlang language.}
 
-{Describe your purpose for writing this software.}
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
